@@ -26,5 +26,5 @@ I'm building hands-on skills for a career in **SOC / blue team and security anal
 | [tryhackme-journal](https://github.com/user-cariv/tryhackme-journal) | Concept notes from rooms I complete |
 
 ## 📫 Connect
-- LinkedIn: [your-link-here]
+- LinkedIn: [Ariv Choudhary](https://www.linkedin.com/in/ariv-choudhary-14b826437/)
 - TryHackMe: [arivchoudhary16112007](https://tryhackme.com/p/arivchoudhary16112007)
